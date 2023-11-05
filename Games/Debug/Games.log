@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Різне\Шаг\С++\Змейка курсова\Games\Games\Source.cpp(86,26): warning C4018: '<': signed/unsigned mismatch
+D:\Різне\Шаг\С++\Змейка курсова\Games\Games\Source.cpp(163,23): warning C4018: '<': signed/unsigned mismatch
+D:\Різне\Шаг\С++\Змейка курсова\Games\Games\Source.cpp(203,23): warning C4018: '<': signed/unsigned mismatch
+  Games.vcxproj -> D:\Різне\Шаг\С++\Змейка курсова\Games\Debug\Games.exe
